@@ -1,3 +1,4 @@
 # Data analysis and visualization IBM Watson Studio
-- A project analyzing House Sales in King County, USA 
-- A project visualizing Topic Survey Assignment
+- Data analysis House Sales in King County, USA 
+- Data visualization Topic Survey Assignment
+- Basic language translator 
