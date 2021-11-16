@@ -2,4 +2,4 @@
 - Data analysis House Sales in King County, USA 
 - Data visualization Topic Survey Assignment
 - Basic language translator and speech to text
-- Data analysis No Show Medical appointments 
+- Data analysis No Show Medical appointments (is doing right now)
