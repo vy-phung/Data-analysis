@@ -5,3 +5,5 @@ In this analysis, I will use Logistic Regression to analyze the association betw
 1. I will use Python at first to do data wrangling and exploratory data analysis. 
 2. Then, I use R for statistical analysis.  
 3. Finally, just a little basic predictive modelling. 
+
+All of the steps on brief overview are done in IPython
