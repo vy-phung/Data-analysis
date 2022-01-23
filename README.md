@@ -6,4 +6,4 @@ In this analysis, I will use Logistic Regression to analyze the association betw
 2. Then, I use R for statistical analysis.  
 3. Finally, just a little basic predictive modelling. 
 
-All of the steps on brief overview are done in Google Colab and saved in .ipynb file
+All of the steps of brief overview are done on <a href = "https://github.com/vy-phung/Data-analysis/blob/main/No_Show_Medical_Appointment.ipynb">Google Colab</a>
